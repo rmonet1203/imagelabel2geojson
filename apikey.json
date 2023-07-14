@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "unified-poet-392116",
+    "private_key_id": "6c4cc7b972693c4fad8dd5495d1201d116d41907",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDJbQxU88yUIqlo\ni0/0qCzq0WwgjMWWMmrAdtwI0aZKHt/tqhcOPPwatFmNc6r0U7fDJGpNxZW7GsCc\nt/TnX5qSSPxN1gKoiFhq7c/4lO9hVeG93dfyHtmp9dltb10taokO1vr4BdvKESbl\nxQmY1Nl0yC6fvSk041sLMrWDckk37pgIRWVo9K5HYePl87Soz/Kl3RmC24VNBXf1\npYQB4Sn0zTpGbWQw57yzN4vG5uyqihyzpc/SvJWPrg/7vas6lW8+PFhcYCk+oJ8A\nJ71SMfn1EiIt9mAtc58SXgIDXcZrlkGlUoGmjO04gGN8oSd+dCdOWVWwhbdgcHy2\n+sndTwAJAgMBAAECggEADjFIk+jMwqhRkvvz8YtzBMWmToHUv0FEq9SEKvvosWLN\nCPA56ScrZU9NWw3qHwaSFWYotlukcfdP2IsOrsnZ+JI7ctmQPONEhZ5Fj+CgoFVe\nj1QFDfqWACeCPzeAU32k9B56NwUkqC9+s+RnCXV/7/5V6Kv5rhAR/28+gmlIVvAx\nB/pNt1k5XUHxtLicTyzowBct6JBqXEo52V466vwVsWqsUErx5vyZiOsnNKupFdGJ\nFt50Jaq6+ZfD+NBlJVlEhYKGcs1DxqxSMFwshSQ6IkPEjVulIHHnZjuGYCOQMZOZ\nQuypixVshdw1Tqgam/hJ3xcAMqQCZWxKhkQFONR9oQKBgQDxBX967Ag77OQHiqRD\n5VsjJ8vNP2NpfZHkL0hgBdcodClPpey5KLfgi/XftGWCu5v4i7ds6jIOP6bdqS3n\ndqUnIUBh3Iup/3wCaoaLJXv+ZvPpOlTym0fa6iAPCC5dB7YSFM7mJDhqWUvknHWu\ntxmCwoCnFv/GY5Mj83Y4NUgg0QKBgQDV8Zw6wQ9/5THmBYCHhNctC2W+iThi9DdS\nb4d+TyspdaSqgCrzIhqubfw+Ilcu8rwkGxhIbg6dv0eD5T6lm3k1H8R1KFm9E946\nAVcGuKaqmhWVkXPNnN5statPGLy4HlqTIV1Xzivlk+vD49Hea7FNMjlEaesA1T5d\n2Nhg4QT5uQKBgHk+ksp7QgkjOfKxQ8ED97zPoC433QKMMH/haT8ksP+gr8dpaJQc\nb6N9xMosLYR+bA+z+SnJBjU0v/Rxzq3JeXsdtw2DrJ5v7yon/FazHJT1pW2F8oW4\np4Twkf/91ZTm9ChUX2BWiCq3kP4H1wt1AFhPD/j+ENzz6mkDaE0OQKKBAoGAWTOk\n3QZz7PJl7K8smNR1Vw2ifV//R5rlmhRwXOSrbVzkrEZGIht9Hm8zNcDhsux4L2Gw\nrTpeE72WFtM1XJ1HWzQEmIibae9nv62hWGcS7pzSFQuRShB22MKiS5dX0DivsRq/\nLYYD3XPgYEuTzHYAddxT7kdvOWiv2Tc5eKM5jNkCgYArXWK+WkKHpAaYgxt+hXjB\n5zX0gV+JoY9cgmr7MhMcGk5iz945qJk5NuCpekF1stezW5NuX1RvnkBGZSRqqVOp\n+ls04xWAUKDkb9+2TBfGum0n/TOUvY+NQLAfWm5cgrW05glCckQjBKLP2EX7Qb11\njm2mQfwzCe1UJabuSmbGWw==\n-----END PRIVATE KEY-----\n",
+    "client_email": "qgis-ocr@unified-poet-392116.iam.gserviceaccount.com",
+    "client_id": "113575994254757766473",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qgis-ocr%40unified-poet-392116.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
